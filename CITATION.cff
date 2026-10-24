@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the book."
+title: "Compassionate Superintelligence: companion code"
+authors:
+  - family-names: Ray
+    given-names: Sri Amit
+repository-code: "https://github.com/compassionate-ai-lab/compassionate-superintelligence"
+license: MIT
+preferred-citation:
+  type: book
+  title: "Compassionate Superintelligence: Architecture, Alignment, and the Future of Intelligence That Cares"
+  authors:
+    - family-names: Ray
+      given-names: Sri Amit
+  publisher:
+    name: "Compassionate AI Lab"
+  year: 2026
+  edition: "Second edition"
+  isbn: "978-81-69641-22-7"
